@@ -10,9 +10,9 @@ To compile: javac MainScreen.java
 To run: java -cp sqlitejdbc-v056.jar;. MainScreen
 
 Admins:
-	USERNAME	PASSWORD
-	admin1	pass1
-	admin2	pass2
-	admin3	pass3
+
+USERNAME: admin1, admin2, admin3
+
+PASSWORD: pass1, pass2, pass3
 
 *Admins can remove user solutions and problems.
